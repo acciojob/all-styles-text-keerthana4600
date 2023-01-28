@@ -1,9 +1,12 @@
-.container{
+.main{
 	width:200px;
-	background-color:purple;
-	border-left:5px solid green;
+	background-color:rgb(128, 0, 128);
+	border:solid;
+	border-left-width:5px;
+	border-left-color:rgb(0, 128, 0);
 	padding:10px;
-	color:white;
-	font-size:20px;
 }
-ode here. */
+#heading{
+	font-size:20px;
+	color:rgb(255, 255, 255);
+}
